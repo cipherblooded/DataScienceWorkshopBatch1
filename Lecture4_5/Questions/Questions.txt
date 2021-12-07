@@ -1,0 +1,34 @@
+# QUESTIONS
+
+
+1. give the total number of countries involved in the dataset
+
+2. name the terrorist organization which has took responsibility of most number of attacks
+
+3. find the total no. of diff. regions countrywise in the dataset
+
+4. find the country with the maximum number of terror attacks
+
+5. find the country with lowest terrorist activity
+
+6. sort the countries in order of terror activity (high to low)
+
+7. find the region with the maximum number of terror attacks
+
+8. find the region with the lowest number of terror attacks
+
+9. sort the region in order of terror activity (low to high)
+
+10. find total unique kind of terror attacks
+
+11. find total no. of incidents of every type of terror attack.
+
+12. find the terror attack with most number of deaths
+
+13. find the terror attack with highest number of injuries
+
+14. find the count of kinds of terror activities happened in Baghdad
+
+15. find total no. of terror activities happened in Israel
+
+16. PLOT THE DEATHS VS YEAR LINE GRAPH
